@@ -4,7 +4,7 @@ Link to the original project by ndrplz who used TensorFlow to train the model : 
 
 This is a PyTorch version of the above project to build a **CNN** in **PyTorch** to **classify traffic sign images** from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
-Main steps covered in this lab are:
+Main steps covered here are:
 - dataset exploration and visualization
 - data augmentation
 - deep network design and training
